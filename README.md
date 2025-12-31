@@ -124,10 +124,6 @@ This will be addressed in Level 2.
 ## **10. Planned Improvements for Level 2**
 
 * Hybrid search (BM25 + FAISS)
-* Reranking using cross-encoders
-* Better MCQ reasoning prompt
-* Confidence scoring
-* Improved chunking and contextual retrieval
 * Optional chat UI using Streamlit
 
 ---
@@ -168,5 +164,6 @@ This Level 1 submission successfully demonstrates:
 # ** End of Submission **
 drive link to the dataset(PDFs) -> https://drive.google.com/drive/folders/19zsPPy_nxo570GQK0_Kydm_pJ2KWixd0?usp=sharing
 ---
+
 
 
