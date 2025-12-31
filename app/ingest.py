@@ -88,9 +88,7 @@ def ingest():
     print(f" Vector Index Saved to: {INDEX_PATH}")
     print(f" Chunks Saved to: {CHUNKS_PATH}")
     print(f" Metadata Saved to: {META_PATH}")
-    print("\n--------------------------------------------------")
-    print(" Next step: Run the FastAPI server and test /ask")
-    print("--------------------------------------------------\n")
+
 
 
 
